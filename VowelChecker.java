@@ -22,7 +22,7 @@ public class VowelChecker
             case "O":
             case "o":
             case "U":
-            case "u": System.out.println("It is a vowel checker");
+            case "u": System.out.println("It is a vowel checker revision");
                         break;
             default: System.out.println("It is a consonant");
                         break;
