@@ -24,7 +24,7 @@ public class VowelChecker
             case "U":
             case "u": System.out.println("It is a vowel checker revision");
                         break;
-            default: System.out.println("It is a consonant");
+            default: System.out.println("Iwht");
                         break;
         }
         
